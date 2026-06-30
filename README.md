@@ -19,9 +19,9 @@ documented here. No gaps. No fake progress. Raw and honest.
 - Year 5: Interview prep, applications, offers
 
 ## Current phase
-📍 Phase 1 — Linux. Day 1.
+📍 Phase 1 — Linux. Day 2.
 
 ## Weekly logs
 | Week | Topics | Status |
 |------|---------|--------|
-| Week 1 | Terminal basics, pwd, ls, cd, mkdir | 🔄 In progress |
+| Week 1 | Terminal basics, pwd, ls, cd, mkdir | 🔄 Almost Done|
